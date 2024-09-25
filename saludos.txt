@@ -1,4 +1,7 @@
 hola Jahir Noriega
 Bounjour Jahir
+<<<<<<< HEAD
 hello
+konnichiwa sushi
+>>>>>>> japanese
 
